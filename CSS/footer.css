@@ -37,6 +37,7 @@ footer nav ul{
 
 footer nav ul li a{
     color: var(--light-grayish-blue);
+    font-weight: 300;
     text-decoration: none;
 }
 

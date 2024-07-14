@@ -30,6 +30,7 @@ header nav ul li{
 
 header nav ul li a{
     color: var(--grayish-blue);
+    font-weight: 400;
     text-decoration: none;
     display: flex;
     align-items: center;
@@ -58,7 +59,7 @@ header nav ul li:hover > a{
     max-width: max-content;
     padding: .8rem 2rem;
     color: var(--white);
-    font-weight: bold;
+    font-weight: 700;
     text-decoration: none;
     text-wrap: nowrap;
     background: linear-gradient(to right, var(--lime-green), var(--bright-cyan));
